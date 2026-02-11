@@ -22,7 +22,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 gem 'omniauth'
-gem 'omniauth-google-oauth2'
+gem 'omniauth-google-oauth2', '>= 1.0.1'
 gem 'omniauth-rails_csrf_protection'
 gem "bulma-rails", "~> 0.9.1"
 # Use Active Storage variant
